@@ -1,2 +1,6 @@
 # testmodule
-Just a play area to test go module mechanics
+Just a play area to learn Go module mechanics
+
+## Hello World
+
+THis is more
