@@ -3,4 +3,4 @@ Just a play area to learn Go module mechanics
 
 ## Hello World
 
-THis is more
+This is more
